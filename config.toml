@@ -1,5 +1,5 @@
 # Basic information
-baseURL = 'https://tairan.github.io/' # Should be updated to your domain
+baseURL = 'https://tairan.github.io/home' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
